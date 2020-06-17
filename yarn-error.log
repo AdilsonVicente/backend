@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js init
+
+PATH: 
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_2004.2020.424.0_x64__79rhkp1fndgsc:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Users/Adilson/AppData/Local/Android/Sdk/tools:/mnt/c/Users/Adilson/AppData/Local/Android/Sdk/tools/lib:/mnt/c/Users/Adilson/AppData/Local/Android/Sdk/tools/bin:/mnt/c/Users/Adilson/AppData/Local/Android/Sdk/platform-tools:/mnt/c/HashiCorp/Vagrant/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Dart/dart-sdk/bin:/mnt/c/Users/Adilson/Desktop/flutter/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Android/Android Studio/jre/bin:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/Adilson/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Adilson/AppData/Local/atom/bin:/mnt/c/Users/Adilson/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Adilson/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Adilson/AppData/Local/Yarn/bin:/mnt/c/Users/Adilson/AppData/Roaming/npm:/snap/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.19.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:137008:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1073:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:288:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
